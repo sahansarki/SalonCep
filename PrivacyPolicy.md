@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy applies to the SalonCep app (hereby referred to as "Application") for mobile devices that was created by Şahan Can Sarkı (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the SalonCep app (hereby referred to as "Application").
 
 ## Information Collection and Use
 
