@@ -1,70 +1,114 @@
-**Privacy Policy**
+# Privacy Policy
 
 This privacy policy applies to the SalonCep app (hereby referred to as "Application") for mobile devices that was created by Şahan Can Sarkı (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
-**Information Collection and Use**
+## Information Collection and Use
 
-The Application collects information when you download and use it. This information may include information such as
+The Application collects and stores information when you download, register, and use it. This information is stored securely on Firebase Firestore servers.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+### Account Information
 
-The Application does not gather precise information about the location of your mobile device.
+When you create an account with the Application, we collect and store:
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+* Username
+* Password
+* Account creation date
+* Account status and preferences
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+This information is used for:
+* Account creation and authentication
+* Providing access to your personalized data
+* App functionality and user experience
+* Customer support and communication
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+### User-Generated Content and Data Storage
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+All application data is stored on Google Firebase Firestore servers. The Application does not support local data storage. Information stored includes:
 
-**Third Party Access**
+* Salon and business information
+* Client records and contact information
+* Service records and history
+* Financial records and transaction data
+* Notes and custom fields
+* Any other content you create within the Application
+
+This data is:
+* Stored on Firebase servers (Google Cloud Platform infrastructure)
+* Accessible only through your authenticated account
+* Synchronized across your devices when logged in
+* Retained as long as your account remains active
+
+## Third Party Access
+
+The Application utilizes third-party services for specific functionality. These services have their own Privacy Policies about handling data:
+
+* **[Google Firebase](https://firebase.google.com/support/privacy)** - Used for data storage, authentication, and app infrastructure
+* **[RevenueCat](https://www.revenuecat.com/privacy)** - Used for subscription management and payment processing
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
-
-*   [RevenueCat](https://www.revenuecat.com/privacy)
-
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+* As required by law, such as to comply with a subpoena, or similar legal process
+* When they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+* With their trusted service providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement
 
-**Opt-Out Rights**
+## Your Rights
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You have the right to:
 
-**Data Retention Policy**
+* Access the personal information we hold about you
+* Request correction of inaccurate data
+* Request deletion of your account and all associated data
+* Export your data
+* Withdraw consent for data processing by closing your account
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at sahancansarki@gmail.com and they will respond in a reasonable time.
+To exercise these rights, contact us at sahancansarki@gmail.com
 
-**Children**
+## Opt-Out Rights
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+You can stop all collection of information by the Application by:
+Contacting us at sahancansarki@gmail.com to request account deletion
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (sahancansarki@gmail.com) so that they will be able to take the necessary actions.
+Note: Uninstalling the Application does not delete your account or data stored on Firebase servers. You must explicitly request account deletion.
 
-**Security**
+## Data Retention Policy
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+The Service Provider will retain User Provided data for as long as you maintain an active account with the Application.
 
-**Changes**
+* Account data and user-generated content will be retained until you request deletion or close your account
+* After account deletion request, your data will be permanently removed from Firebase servers within 30 days
+* Some information may be retained for longer periods as required by law or for legitimate business purposes (e.g., fraud prevention, legal compliance, financial records)
+* Backup copies may persist for up to 90 days before complete deletion
+
+If you'd like to delete your account and all associated data, please contact us at sahancansarki@gmail.com or use the account deletion feature in the Application settings.
+
+## Security
+
+The Service Provider is concerned about safeguarding the confidentiality of your information. Your data is stored on Google Firebase's infrastructure, which provides its own security measures.
+
+The Service Provider relies on Firebase's built-in security features to protect your information. However, no method of transmission over the internet or electronic storage is 100% secure. While Firebase provides infrastructure security, we cannot guarantee absolute security of your personal information.
+
+We recommend that you:
+* Use a strong, unique password for your account
+* Do not share your login credentials with others
+* Log out of your account when using shared devices
+
+
+## Changes
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-08-13
+**This privacy policy is effective as of 2025-10-26**
 
-**Your Consent**
+## Your Consent
 
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-**Contact Us**
+## Contact Us
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at sahancansarki@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at **sahancansarki@gmail.com**
+
+---
+
+**Last Updated:** October 26, 2025
