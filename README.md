@@ -13,11 +13,6 @@ C: Ana ekrandaki '+' veya 'İşlem Ekle' butonuna dokunun, tutarı, açıklamay�
 **S: Raporlarımı ve grafiklerimi nasıl görebilirim?**  
 C: Alt menüdeki 'Raporlar' sekmesine giderek günlük, haftalık ve aylık gelir-gider özetlerinizi ve detaylı grafiklerinizi anında görebilirsiniz.
 
-**S: SalonCep internet olmadan çalışır mı?**  
-C: Evet, SalonCep çevrimdışı çalışmak üzere tasarlanmıştır. Tüm verileriniz güvenli bir şekilde telefonunuzda saklanır, bu sayede internet bağlantınız olmasa bile işlem ekleyebilirsiniz.
-
-**S: Verilerim güvende mi? Başkaları görebilir mi?**  
-C: Verilerinizin gizliliği bizim için en önemli önceliktir. Tüm finansal bilgileriniz yalnızca sizin telefonunuzda saklanır ve hiçbir şekilde başka bir sunucuya gönderilmez veya paylaşılmaz.
 
 ## 📬 Yardıma mı İhtiyacınız Var? Hata mı Buldunuz?
 
