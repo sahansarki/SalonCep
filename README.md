@@ -1,25 +1,32 @@
-HumAIr Destek
+# SalonCep Destek
 
-HumAIr resmi destek sayfasına hoş geldiniz!
+**SalonCep** resmi destek sayfasına hoş geldiniz!
 
-HumAIr, sohbet geçmişlerinizi yapay zekâ ile analiz ederek mizah düzeyinizi, duygu tonunuzu ve kişilik özelliklerinizi ortaya çıkaran bir sohbet analiz uygulamasıdır.
-Sohbetlerinizi yükleyin, yapay zekâ analiz etsin, siz de kendinizi keşfedin!
+SalonCep, kuaför, berber ve güzellik salonu sahiplerinin işletmelerini kolayca yönetmeleri için tasarlanmış bir mobil uygulamadır.
+Herhangi bir sorunuz varsa, bir hatayla karşılaştıysanız veya yeni bir özellik talep etmek istiyorsanız, doğru yerdesiniz.
 
-📋 Sıkça Sorulan Sorular (SSS)
+## 📋 Sıkça Sorulan Sorular (SSS)
 
-S: Sohbet dosyamı nasıl yükleyebilirim?
-C: Uygulama içinde “Dosya Yükle” butonuna dokunarak WhatsApp tarzı sohbet geçmişinizi (.txt formatında) seçin. Ardından analiz birkaç saniye içinde tamamlanır.
+**S: Nasıl gelir veya gider ekleyebilirim?**  
+C: Ana ekrandaki '+' veya 'İşlem Ekle' butonuna dokunun, tutarı, açıklamayı ve türünü (gelir/gider) seçip kaydedin. İşlem bu kadar basit!
 
-S: Analiz sonucunda neleri görebilirim?
-C: Uygulama, sohbetinizdeki mizah oranını, alay düzeyini, duygusal tonu ve iletişim dengesini gösterir. Ayrıca her katılımcı için kişisel analiz kartı oluşturur.
+**S: Raporlarımı ve grafiklerimi nasıl görebilirim?**  
+C: Alt menüdeki 'Raporlar' sekmesine giderek günlük, haftalık ve aylık gelir-gider özetlerinizi ve detaylı grafiklerinizi anında görebilirsiniz.
 
-S: Verilerim güvende mi?
-C: Evet. Sohbet dosyalarınız yalnızca analiz amacıyla işlenir, cihazınızdan izinsiz dışa aktarılmaz. Kişisel verileriniz üçüncü taraflarla paylaşılmaz.
 
-📬 Yardıma mı İhtiyacınız Var? Hata mı Buldunuz?
+## 📬 Yardıma mı İhtiyacınız Var? Hata mı Buldunuz?
 
-Uygulamada bir hata fark ettiyseniz, geri bildirimde bulunmak veya yeni özellik önermek istiyorsanız bizimle iletişime geçebilirsiniz:
+Uygulamayı kullanırken herhangi bir sorun yaşarsanız veya SalonCep'i daha iyi hale getirmek için önerileriniz varsa, lütfen aşağıdaki bağlantıyı kullanarak yeni bir 'issue' (bildirim) oluşturun:
 
-📧 sahancansarki@gmail.com
+👉 **[Destek Talebi Gönder veya Hata Bildir](https://github.com/sahansarki/SalonCep/issues)**  
 
-İletişim formu veya doğrudan e-posta yoluyla en kısa sürede size geri dönüş yapıyoruz.
+Bu sayfayı aktif olarak takip ediyor ve en kısa sürede geri dönüş yapmaya özen gösteriyoruz.
+
+## 🚀 Güncel Kalın
+
+Yeni özelliklerden ve iyileştirmelerden yararlanmak için uygulamanızı her zaman güncel tuttuğunuzdan emin olun!
+
+---
+
+SalonCep'i kullandığınız için teşekkür ederiz!  
+Geri bildirimleriniz, SalonCep'i daha da iyi bir hale getirmemize yardımcı oluyor.
