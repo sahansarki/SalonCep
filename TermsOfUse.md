@@ -1,135 +1,137 @@
-Terms of Use (EULA)
+Kullanım Şartları (EULA)
 
-Last updated: November 2025
-Application: SalonCep
+Son güncelleme: Kasım 2025
+Uygulama: SalonCep
 
-Welcome to SalonCep, a financial tracking and business management application designed for salons, barbers, nail artists, and similar service-based businesses.
-These Terms of Use (“Terms”) form a legally binding agreement between you (“User”) and SalonCep (“we”, “our”, “the App”).
+SalonCep’e hoş geldiniz. Salonlar, berberler, kuaförler, nail art işletmeleri ve benzeri hizmet tabanlı işletmeler için tasarlanmış bir finans takibi ve iş yönetimi uygulamasıyız.
+Bu Kullanım Şartları (“Şartlar”), sizin (“Kullanıcı”) ile SalonCep (“biz”, “uygulama”) arasında yasal olarak bağlayıcı bir sözleşme niteliğindedir.
 
-By downloading, accessing, or using SalonCep, you agree to comply with these Terms.
+SalonCep’i indirerek, erişerek veya kullanarak bu Şartlara uymayı kabul etmiş olursunuz.
 
-1. Acceptance of Terms
+1. Şartların Kabulü
 
-By using the App, you confirm that:
+Uygulamayı kullanarak:
 
-You are at least 18 years old,
+En az 18 yaşında olduğunuzu,
 
-You understand and agree to these Terms,
+Bu Şartları anladığınızı ve kabul ettiğinizi,
 
-You agree to use the App in compliance with all applicable laws and regulations.
+Uygulamayı yürürlükteki tüm yasa ve düzenlemelere uygun şekilde kullanacağınızı
 
-If you do not agree with these Terms, you may not use SalonCep.
+onaylamış olursunuz.
 
-2. Description of the Service
+Bu Şartları kabul etmiyorsanız SalonCep’i kullanamazsınız.
 
-SalonCep provides tools for:
+2. Hizmetin Tanımı
 
-Financial tracking (income, expenses, categories)
+SalonCep aşağıdaki araçları sağlar:
 
-Employee-based income/expense input
+Finans takibi (gelir, gider, kategoriler)
 
-Daily, weekly, monthly, and custom date-range reporting
+Çalışan bazlı gelir/gider kaydı
 
-Business performance analytics
+Günlük, haftalık, aylık ve özel tarih aralıklarında raporlama
 
-Secure data synchronization across devices
+İşletme performans analizi
 
-The features may evolve over time through updates.
+Cihazlar arası güvenli veri senkronizasyonu
 
-3. Subscriptions & Payments
+Uygulamanın özellikleri zaman içinde güncellemelerle değişebilir.
 
-SalonCep offers auto-renewable subscriptions.
+3. Abonelikler ve Ödemeler
 
-Payment will be charged to your Apple ID account upon confirmation.
+SalonCep otomatik yenilenen abonelikler sunar.
 
-Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
+Ödeme, satın alma onayı sırasında Apple Kimliğinize (Apple ID) yansıtılır.
 
-Your account will be charged for renewal within 24 hours prior to the end of the period.
+Abonelikler, mevcut dönem bitmeden en az 24 saat önce iptal edilmediği sürece otomatik olarak yenilenir.
 
-You may manage or cancel your subscription in App Store → Apple ID → Subscriptions.
+Yenileme ücreti, dönem bitmeden 24 saat önce hesabınıza yansıtılır.
 
-All payments are handled through Apple; we do not collect or store credit card information.
+Aboneliğinizi App Store → Apple ID → Subscriptions (Abonelikler) bölümünden yönetebilir veya iptal edebilirsiniz.
 
-4. User Responsibilities
+Tüm ödemeler Apple tarafından işlenir; kredi kartı bilgileriniz tarafımızca toplanmaz veya saklanmaz.
 
-You agree not to:
+4. Kullanıcı Sorumlulukları
 
-Misuse the App for illegal activities
+Aşağıdakileri yapmamayı kabul edersiniz:
 
-Interfere with the App’s operation
+Uygulamayı yasa dışı faaliyetler için kullanmak
 
-Attempt to reverse engineer or modify the App
+Uygulamanın işleyişine müdahale etmek
 
-Share your login or account with unauthorized parties
+Uygulamayı tersine mühendislik yapmak veya değiştirmeye çalışmak
 
-You are responsible for maintaining the confidentiality of your account.
+Hesabınızı veya oturum bilgilerinizi yetkisiz kişilerle paylaşmak
 
-5. Data & Privacy
+Hesabınızın gizliliğini korumaktan siz sorumlusunuz.
 
-Your privacy is important to us.
-All data handling practices are described in our Privacy Policy:
+5. Veri ve Gizlilik
+
+Gizliliğiniz bizim için önemlidir.
+Tüm veri işleme süreçlerimiz, Gizlilik Politikamızda belirtilmiştir:
 
 👉 https://github.com/sahansarki/SalonCep/blob/main/PrivacyPolicy.md
 
-By using the App, you consent to the data practices described there.
+Uygulamayı kullanarak Gizlilik Politikamızda açıklanan veri işleme uygulamalarını kabul etmiş olursunuz.
 
-6. Intellectual Property
+6. Fikri Mülkiyet Hakları
 
-All content, UI design, icons, trademarks, and backend services used within SalonCep are the exclusive property of the developer and protected by copyright laws.
+Uygulamada kullanılan tüm içerik, UI tasarımları, ikonlar, ticari markalar ve arka uç (backend) hizmetleri geliştiriciye aittir ve telif hakkı yasalarıyla korunmaktadır.
 
-You may not copy, modify, or distribute any part of the App without written permission.
+Bu içeriklerin izinsiz kopyalanması, değiştirilmesi veya dağıtılması yasaktır.
 
-7. Disclaimer of Warranties
+7. Garantilerin Reddi
 
-The App is provided on an “as is” and “as available” basis.
+Uygulama “olduğu gibi” ve “mevcut haliyle” sunulmaktadır.
 
-We do not guarantee that:
+Aşağıdaki konularda garanti vermeyiz:
 
-The App will be error-free,
+Uygulamanın hatasız çalışacağı,
 
-The services will be uninterrupted,
+Hizmetlerin kesintisiz olacağı,
 
-The data will be 100% accurate at all times.
+Verilerin her zaman %100 doğru olacağı.
 
-You use the App at your own risk.
+Uygulamayı kendi sorumluluğunuzda kullanırsınız.
 
-8. Limitation of Liability
+8. Sorumluluğun Sınırlandırılması
 
-To the maximum extent permitted by law, SalonCep shall not be liable for:
+Yürürlükteki yasaların izin verdiği azami ölçüde SalonCep aşağıdaki durumlardan sorumlu tutulamaz:
 
-Loss of profits
+Kar kayıpları
 
-Business interruptions
+İşletme faaliyetlerinin aksaması
 
-Data losses
+Veri kayıpları
 
-Indirect or consequential damages
+Dolaylı veya sonuçsal zararlar
 
-Your sole remedy for dissatisfaction with the App is to stop using it.
+Uygulamadan memnun kalmamanız durumunda tek çözümünüz kullanmayı bırakmaktır.
 
-9. Modifications to the Service
+9. Hizmette Değişiklik Yapılması
 
-We reserve the right to modify, update, or discontinue parts of the App at any time, including paid and free features.
+Ücretli ve ücretsiz özellikler dahil olmak üzere uygulamanın herhangi bir bölümünü dilediğimiz zaman değiştirme, güncelleme veya sonlandırma hakkını saklı tutarız.
 
-10. Termination
+10. Hizmetin Sonlandırılması
 
-We may suspend or terminate user access if:
+Aşağıdaki durumlarda kullanıcı erişimini askıya alabilir veya sonlandırabiliriz:
 
-These Terms are violated
+Bu Şartların ihlal edilmesi
 
-Fraudulent or abusive behavior is detected
+Dolandırıcılık veya kötüye kullanım şüphesi
 
-Required by legal authorities
+Yasal bir gereklilik doğması
 
-Upon termination, you must cease all use of the App.
+Sonlandırma durumunda uygulamayı kullanmayı bırakmalısınız.
 
-11. Changes to Terms
+11. Şartlarda Değişiklikler
 
-We may update these Terms occasionally.
-Continued use of the App after revisions constitutes acceptance of the updated Terms.
+Bu Şartlar zaman zaman güncellenebilir.
+Uygulamayı kullanmaya devam etmeniz, güncellenmiş Şartları kabul ettiğiniz anlamına gelir.
 
-12. Contact Information
+12. İletişim
 
-If you have questions regarding these Terms or the App, you can contact the developer at:
+Bu Şartlarla veya uygulamayla ilgili sorularınız için bizimle iletişime geçebilirsiniz:
 
 📧 sahansarki@gmail.com
